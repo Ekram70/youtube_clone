@@ -7,7 +7,7 @@ import {
   Feed,
   Navbar,
   SearchFeed,
-  VideoDetail
+  VideoDetail,
 } from './components';
 
 const App = () => {
